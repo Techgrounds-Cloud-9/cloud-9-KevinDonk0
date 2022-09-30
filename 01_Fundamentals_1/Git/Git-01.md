@@ -35,9 +35,11 @@ Getting a better understanding how GitHub works. I also downloaded GitHub deskto
 
 # Results
 
-local GitHub
-![local GitHub](https://github.com/Techgrounds-Cloud-9/cloud-9-KevinDonk0/blob/main/00_includes/Git/Git-01-00.PNG)
+Local GitHub
+
+![Local GitHub](https://github.com/Techgrounds-Cloud-9/cloud-9-KevinDonk0/blob/main/00_includes/Git/Git-01-00.PNG)
 
 
 Using github desktop to commit and push files.
+
 ![Using github desktop to commit and push files.](https://github.com/Techgrounds-Cloud-9/cloud-9-KevinDonk0/blob/main/00_includes/Git/GIT-01-01.PNG)
